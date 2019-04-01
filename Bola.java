@@ -4,7 +4,7 @@ import android.widget.ImageView;
 
 public class Bola {
     ImageView bola;
-    float velY, velX;
+    float velY,  velX;
 
     public Bola(float velY, float velX) {
         this.velY = velY;
